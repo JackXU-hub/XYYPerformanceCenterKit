@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'XYYPerformanceCenterKit_Example' do
+  pod 'XYYPerformanceCenterKit', :path => '../'
+
+  target 'XYYPerformanceCenterKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
