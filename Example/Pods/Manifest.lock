@@ -1,0 +1,16 @@
+PODS:
+  - XYYPerformanceCenterKit (0.1.0)
+
+DEPENDENCIES:
+  - XYYPerformanceCenterKit (from `../`)
+
+EXTERNAL SOURCES:
+  XYYPerformanceCenterKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XYYPerformanceCenterKit: ddfdcf7db420acd714b53482d7f0641b8db54365
+
+PODFILE CHECKSUM: 5276ab53de656d22b52e00bc53891fae27ea7c2d
+
+COCOAPODS: 1.7.0
