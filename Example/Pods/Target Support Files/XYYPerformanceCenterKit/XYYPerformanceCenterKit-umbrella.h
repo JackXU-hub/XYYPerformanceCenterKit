@@ -10,6 +10,13 @@
 #endif
 #endif
 
+#import "XYYBasePerformanceMonitor.h"
+#import "XYYCPUMonitor.h"
+#import "XYYFPSMonitor.h"
+#import "XYYMemoryMonitor.h"
+#import "XYYPerformanceCenter.h"
+#import "XYYPerformanceViewController.h"
+#import "XYYPerformanceWindow.h"
 
 FOUNDATION_EXPORT double XYYPerformanceCenterKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char XYYPerformanceCenterKitVersionString[];

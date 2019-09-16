@@ -1,5 +1,5 @@
 PODS:
-  - XYYPerformanceCenterKit (0.1.0)
+  - XYYPerformanceCenterKit (0.1.1)
 
 DEPENDENCIES:
   - XYYPerformanceCenterKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  XYYPerformanceCenterKit: ddfdcf7db420acd714b53482d7f0641b8db54365
+  XYYPerformanceCenterKit: fcd029501bb11728c10def369d1572ddeb3ee95c
 
 PODFILE CHECKSUM: 5276ab53de656d22b52e00bc53891fae27ea7c2d
 

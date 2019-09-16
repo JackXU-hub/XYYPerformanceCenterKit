@@ -1,0 +1,6 @@
+framework module XYYPerformanceCenter {
+  umbrella header "XYYPerformanceCenter.h"
+
+  export *
+  module * { export * }
+}
